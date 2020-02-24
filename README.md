@@ -1,2 +1,2 @@
 # Study-Guides
-Study Guides for Lambda Data Science
+Data Science Study Guides
